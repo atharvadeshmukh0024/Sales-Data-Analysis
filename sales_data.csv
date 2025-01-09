@@ -1,0 +1,7 @@
+Order ID,Order Date,Region,Product Name,Product ID,Customer ID,Customer Segment,Sales Amount,Profit,Cost,Discount,Quantity Sold
+1,2023-01-15,East,Laptop,P001,C001,Corporate,1200,300,900,0.1,2
+2,2023-01-16,West,Smartphone,P002,C002,Consumer,800,200,600,0.05,5
+3,2023-01-17,North,Desk Chair,P003,C003,Small Business,400,100,300,0.2,3
+4,2023-01-18,South,Monitor,P004,C004,Home Office,250,50,200,0.0,4
+5,2023-01-19,East,Headphones,P005,C005,Consumer,150,30,120,0.15,7
+6,2023-01-20,West,Printer,P006,C006,Corporate,600,100,500,0.1,2
